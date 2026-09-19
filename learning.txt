@@ -1,0 +1,2 @@
+Git tracks changes in my local repository.
+GitHub stores and shares my repository online.
